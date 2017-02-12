@@ -1,0 +1,9 @@
+scaling should be applied to test set also (sow iwth and without)
+one hot encoding (show with and without)
+show diffeent preprocessors
+show hot to use different labels 
+can apply scaling to fewer features
+can easily find correlation in pandas
+show violin plots and correlation plots
+ranking features
+feature selection 
